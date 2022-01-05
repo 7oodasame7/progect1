@@ -1,2 +1,2 @@
-### Fitness layout (Gym)
+### landingpage => Fitness layout (Gym)
 
